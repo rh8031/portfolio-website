@@ -233,13 +233,13 @@ The website includes navigation links for moving between sections and a JavaScri
 
 # Timeline / Project Milestones
 
-| Week | Task |
+| Day | Task |
 |--------|--------|
-| Week 1 | Project Planning |
-| Week 2 | HTML Structure |
-| Week 3 | CSS Styling |
-| Week 4 | JavaScript Features |
-| Week 5 | Testing and Deployment |
+| Day 1 | Project Planning |
+| Day 1 | HTML Structure |
+| Day 1 | CSS Styling |
+| Day 1 | JavaScript Features |
+| Day 1 | Testing and Deployment |
 
 ---
 
