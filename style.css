@@ -6,14 +6,14 @@ body {
 }
 
 header {
-    background-color: #1e3a5f;
+    background-color: #1b4332;
     color: white;
     text-align: center;
     padding: 50px 20px;
 }
 
 nav {
-    background-color: #2d4f7c;
+    background-color: #2d6a4f;
     text-align: center;
     padding: 15px;
 }
@@ -44,7 +44,7 @@ section {
 }
 
 button {
-    background-color: #1e3a5f;
+    background-color: #1b4332;
     color: white;
     border: none;
     padding: 12px 20px;
@@ -54,11 +54,11 @@ button {
 }
 
 button:hover {
-    background-color: #2d4f7c;
+    background-color: #2d6a4f;
 }
 
 footer {
-    background-color: #1e3a5f;
+    background-color: #1b4332;
     color: white;
     text-align: center;
     padding: 20px;
