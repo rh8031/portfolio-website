@@ -1,3 +1,3 @@
 document.getElementById("contactBtn").addEventListener("click", function () {
-    alert("Thank you for visiting my portfolio!");
+    alert("rakib.hassan80@qmail.cuny.edu");
 });
